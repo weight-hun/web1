@@ -3,11 +3,10 @@
     margin: 0;
   }
   a {
-    color : green;
-    text-decoration: none;
+
   }
   #active {
-    color:red;
+
   }
   h1 {
     font-size: 45px;
